@@ -1,2 +1,4 @@
 # CsvToGeoJSON
-CSV to GeoJSON Parase.
+CSV to GeoJSON Parser.
+
+By Arien Shibani and Tor Hagland.
