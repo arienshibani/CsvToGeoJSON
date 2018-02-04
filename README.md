@@ -1,4 +1,7 @@
 # CsvToGeoJSON
-CSV to GeoJSON Parser.
 
-By Arien Shibani and Tor Hagland.
+Brukt i semesteroppgave, for å konvertere datasett
+over lekeplasser i Bergen kommune fra CSV format til GeoJSON.
+
+Datasett: https://data.norge.no/data/bergen-kommune/lekeplasser-i-bergen-kommune
+Semesteroppgave: http://wildboy.uib.no/~ash010/
