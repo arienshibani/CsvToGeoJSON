@@ -1,0 +1,1316 @@
+{"name":"Lekeplasser","type":"FeatureCollection"
+,"features":[{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.301290, 60.336617]
+  },
+  "properties": {
+    "name": "Bønesparken",
+    "id": "1"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.315892, 60.334972]
+  },
+  "properties": {
+    "name": "Kråkenes miljøpark",
+    "id": "2"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.317622, 60.334400]
+  },
+  "properties": {
+    "name": "Øvre Bergveien lekeplass",
+    "id": "3"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.324110, 60.409634]
+  },
+  "properties": {
+    "name": "Amalie Skrams vei lekeplass",
+    "id": "4"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.316830, 60.394161]
+  },
+  "properties": {
+    "name": "Apotekerhagen lekeplass",
+    "id": "5"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.327210, 60.400307]
+  },
+  "properties": {
+    "name": "Arbeiderboligen lekeplass",
+    "id": "6"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.329953, 60.395927]
+  },
+  "properties": {
+    "name": "Bernhard Meyers vei lekeplass",
+    "id": "7"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.323874, 60.400158]
+  },
+  "properties": {
+    "name": "Birkebeinergaten lekeplass",
+    "id": "8"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.322305, 60.402195]
+  },
+  "properties": {
+    "name": "Bøkkergaten lekeplass",
+    "id": "9"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.328541, 60.406006]
+  },
+  "properties": {
+    "name": "Christinegården lekeplass",
+    "id": "10"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.316685, 60.394714]
+  },
+  "properties": {
+    "name": "Corps de Garde lekeplass",
+    "id": "11"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.316546, 60.387714]
+  },
+  "properties": {
+    "name": "Dokkebakken barnepark",
+    "id": "12"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.316106, 60.389427]
+  },
+  "properties": {
+    "name": "Dragesmauet lekeplass",
+    "id": "13"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.327328, 60.399319]
+  },
+  "properties": {
+    "name": "Finnemanns plass med lek",
+    "id": "14"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.322436, 60.407238]
+  },
+  "properties": {
+    "name": "Fjæregrenden lekeplass",
+    "id": "15"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.307400, 60.423450]
+  },
+  "properties": {
+    "name": "Flagghaugen barnepark",
+    "id": "16"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.328192, 60.386406]
+  },
+  "properties": {
+    "name": "Fosswinckels gate, gatetun med lek",
+    "id": "17"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.326760, 60.401039]
+  },
+  "properties": {
+    "name": "Fredens bolig lekeplass",
+    "id": "18"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.309816, 60.397362]
+  },
+  "properties": {
+    "name": "Fredriksbergsgaten lekeplass",
+    "id": "19"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.310549, 60.395851]
+  },
+  "properties": {
+    "name": "Galgebakken lekeplass",
+    "id": "20"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.307695, 60.396271]
+  },
+  "properties": {
+    "name": "Georgernes verft lekeplass",
+    "id": "21"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.325341, 60.401340]
+  },
+  "properties": {
+    "name": "Grøgårds gate, gatetun med lek",
+    "id": "22"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.324780, 60.401550]
+  },
+  "properties": {
+    "name": "Hans Hauges gate, gatetun med lek",
+    "id": "23"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.316165, 60.388515]
+  },
+  "properties": {
+    "name": "Jekteviksbakken lekeplass",
+    "id": "24"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.320178, 60.388176]
+  },
+  "properties": {
+    "name": "Johanneskirken lekeplass",
+    "id": "25"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.308553, 60.397877]
+  },
+  "properties": {
+    "name": "Kastanjeparken lekeplass",
+    "id": "26"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.312914, 60.395821]
+  },
+  "properties": {
+    "name": "Klosterhaugen lekeplass",
+    "id": "27"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.321395, 60.384392]
+  },
+  "properties": {
+    "name": "Konsul Børs' gate, gatetun med lek",
+    "id": "28"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.325231, 60.398270]
+  },
+  "properties": {
+    "name": "Koren Wibergs plass med lek",
+    "id": "29"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.323595, 60.399235]
+  },
+  "properties": {
+    "name": "Kroken lekeplass",
+    "id": "30"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.330027, 60.388290]
+  },
+  "properties": {
+    "name": "Kvartal 7, gatetun med lek",
+    "id": "31"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.325757, 60.402508]
+  },
+  "properties": {
+    "name": "Ladegårdsgaten, gatetun med lek",
+    "id": "32"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.326046, 60.404259]
+  },
+  "properties": {
+    "name": "Meyermarken bydelspark",
+    "id": "33"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.315090, 60.417339]
+  },
+  "properties": {
+    "name": "Munkebotn lekeplass",
+    "id": "34"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.304358, 60.398659]
+  },
+  "properties": {
+    "name": "Nordnesbakken lekeplass",
+    "id": "35"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.305227, 60.398140]
+  },
+  "properties": {
+    "name": "Nordnes lekeplass",
+    "id": "36"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.302153, 60.399593]
+  },
+  "properties": {
+    "name": "Nordnesparken lekeområde",
+    "id": "37"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.352640, 60.387684]
+  },
+  "properties": {
+    "name": "Ole Irgens vei lekeplass",
+    "id": "38"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.322710, 60.385681]
+  },
+  "properties": {
+    "name": "Ole Vigs gate lekeplass",
+    "id": "39"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.325778, 60.401295]
+  },
+  "properties": {
+    "name": "Repslagergaten, gatetun med lek",
+    "id": "40"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.315623, 60.393391]
+  },
+  "properties": {
+    "name": "Ross-smauet lekeplass",
+    "id": "41"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.325601, 60.405636]
+  },
+  "properties": {
+    "name": "Sandvikskirken lekeplass",
+    "id": "42"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.339055, 60.392906]
+  },
+  "properties": {
+    "name": "Skansemyren lekeplass",
+    "id": "43"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.331261, 60.397305]
+  },
+  "properties": {
+    "name": "Skanseparken",
+    "id": "44"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.336150, 60.391979]
+  },
+  "properties": {
+    "name": "Skivebakken lekeplass",
+    "id": "45"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.321489, 60.401775]
+  },
+  "properties": {
+    "name": "Skuteviksveien lekeplass",
+    "id": "46"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.329568, 60.402653]
+  },
+  "properties": {
+    "name": "Sophus Pihls gate lekeplass",
+    "id": "47"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.314245, 60.393982]
+  },
+  "properties": {
+    "name": "St. Hansstredet, gatetun med lek",
+    "id": "48"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.327615, 60.397980]
+  },
+  "properties": {
+    "name": "Steinkjellerbakken lekeplass",
+    "id": "49"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.326945, 60.398804]
+  },
+  "properties": {
+    "name": "Steinkjellergaten lekeplass",
+    "id": "50"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.364783, 60.383774]
+  },
+  "properties": {
+    "name": "Stemmeveien lekeplass",
+    "id": "51"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.325360, 60.411942]
+  },
+  "properties": {
+    "name": "Sudmanns vei barnepark",
+    "id": "52"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.316278, 60.390636]
+  },
+  "properties": {
+    "name": "Sydnesparken lekeplass",
+    "id": "53"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.311219, 60.395428]
+  },
+  "properties": {
+    "name": "Verftsbakken lekeplass",
+    "id": "54"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.323308, 60.384846]
+  },
+  "properties": {
+    "name": "Welhavens gate, gatetun med lek",
+    "id": "55"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.283855, 60.439121]
+  },
+  "properties": {
+    "name": "Øvre Lønborg lekeplass",
+    "id": "56"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.313488, 60.396187]
+  },
+  "properties": {
+    "name": "Ytre Markeveien lekeplass",
+    "id": "57"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.323144, 60.384136]
+  },
+  "properties": {
+    "name": "Zetlitz' gate, gatetun med lek",
+    "id": "58"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.324265, 60.399117]
+  },
+  "properties": {
+    "name": "Øvregaten lekeplass",
+    "id": "59"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.364718, 60.361092]
+  },
+  "properties": {
+    "name": "Adolph Bergs vei lekeplass",
+    "id": "60"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.353518, 60.360710]
+  },
+  "properties": {
+    "name": "Bendixens vei parkanlegg",
+    "id": "61"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.361103, 60.363914]
+  },
+  "properties": {
+    "name": "Birkeveien lekeplass",
+    "id": "62"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.358995, 60.363117]
+  },
+  "properties": {
+    "name": "Bøkeveien lekeplass",
+    "id": "63"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.347402, 60.372730]
+  },
+  "properties": {
+    "name": "Camilla Colletts gate barnepark",
+    "id": "64"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.348791, 60.356663]
+  },
+  "properties": {
+    "name": "Elvebakken lekeplass",
+    "id": "65"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.357670, 60.360973]
+  },
+  "properties": {
+    "name": "Henrik Mohns vei lekeplass",
+    "id": "66"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.350492, 60.363670]
+  },
+  "properties": {
+    "name": "Hjelms vei lekeplass",
+    "id": "67"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.335831, 60.370731]
+  },
+  "properties": {
+    "name": "Hordagaten barnepark",
+    "id": "68"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.346651, 60.374527]
+  },
+  "properties": {
+    "name": "Hunstadsvingen lekeplass",
+    "id": "69"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.340192, 60.377068]
+  },
+  "properties": {
+    "name": "Ibsens gate lekeplass",
+    "id": "70"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.350508, 60.365067]
+  },
+  "properties": {
+    "name": "Jacob Aalls vei lekeplass",
+    "id": "71"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.350878, 60.375324]
+  },
+  "properties": {
+    "name": "Jonas Lies vei lekeplass",
+    "id": "72"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.371134, 60.364944]
+  },
+  "properties": {
+    "name": "Kanonhaugen lekeplass",
+    "id": "73"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.373334, 60.357643]
+  },
+  "properties": {
+    "name": "Kolstien lekeplass",
+    "id": "74"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.373591, 60.360332]
+  },
+  "properties": {
+    "name": "Landåslien lekeplass",
+    "id": "75"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.320677, 60.379433]
+  },
+  "properties": {
+    "name": "Lien lekeplass",
+    "id": "76"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.370099, 60.367218]
+  },
+  "properties": {
+    "name": "Lægdene lekeplass",
+    "id": "77"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.370051, 60.370811]
+  },
+  "properties": {
+    "name": "Lægdesvingen øst lekeplass",
+    "id": "78"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.367229, 60.371231]
+  },
+  "properties": {
+    "name": "Lægdesvingen vest lekeplass",
+    "id": "79"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.332797, 60.371834]
+  },
+  "properties": {
+    "name": "Løvstakklien lekeplass",
+    "id": "80"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.352713, 60.362831]
+  },
+  "properties": {
+    "name": "Nicolaysens vei lekeplass",
+    "id": "81"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.364515, 60.367233]
+  },
+  "properties": {
+    "name": "Soleiveien lekeplass",
+    "id": "82"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.346544, 60.365475]
+  },
+  "properties": {
+    "name": "Solhaug lekeplass",
+    "id": "83"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.347928, 60.365406]
+  },
+  "properties": {
+    "name": "Solhaugparken",
+    "id": "84"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.327843, 60.375706]
+  },
+  "properties": {
+    "name": "Solheimslien lekeplass",
+    "id": "85"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.347713, 60.368164]
+  },
+  "properties": {
+    "name": "Solheimsvannet",
+    "id": "86"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.353410, 60.367744]
+  },
+  "properties": {
+    "name": "St. Olavs vei lekeplass",
+    "id": "87"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.356640, 60.369762]
+  },
+  "properties": {
+    "name": "St. Sunnivas vei lekeplass",
+    "id": "88"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.319732, 60.379364]
+  },
+  "properties": {
+    "name": "Strandlien lekeplass",
+    "id": "89"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.333573, 60.374653]
+  },
+  "properties": {
+    "name": "Søndre Skogveien lekeplass",
+    "id": "90"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.355309, 60.351677]
+  },
+  "properties": {
+    "name": "Tveiteparken",
+    "id": "91"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.376472, 60.366505]
+  },
+  "properties": {
+    "name": "Øvre Sollien lekeplass",
+    "id": "92"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.438109, 60.458740]
+  },
+  "properties": {
+    "name": "Alf Bondes veg lekeplass",
+    "id": "93"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.476518, 60.402431]
+  },
+  "properties": {
+    "name": "Arnatveitlia lekeplass",
+    "id": "94"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.443479, 60.455780]
+  },
+  "properties": {
+    "name": "Dr. Krohns veg lekeplass",
+    "id": "95"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.447427, 60.449997]
+  },
+  "properties": {
+    "name": "Gamlevegen lekeplass",
+    "id": "96"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.455441, 60.375484]
+  },
+  "properties": {
+    "name": "Lone lekeplass",
+    "id": "97"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.455715, 60.383659]
+  },
+  "properties": {
+    "name": "Londalen lekeplass",
+    "id": "98"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.474700, 60.416878]
+  },
+  "properties": {
+    "name": "Stølsvegen lekeplass",
+    "id": "99"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.436181, 60.458538]
+  },
+  "properties": {
+    "name": "Sætreparken",
+    "id": "100"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.426801, 60.469177]
+  },
+  "properties": {
+    "name": "Sørfjordveien nord lekeplass",
+    "id": "101"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.432769, 60.463680]
+  },
+  "properties": {
+    "name": "Sørfjordveien sør lekeplass",
+    "id": "102"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.430046, 60.462387]
+  },
+  "properties": {
+    "name": "Tuftadalen lekeplass",
+    "id": "103"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.471690, 60.419159]
+  },
+  "properties": {
+    "name": "Vollavegen lekeplass",
+    "id": "104"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.342421, 60.300804]
+  },
+  "properties": {
+    "name": "Dådyrvegen lekeplass",
+    "id": "105"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.345401, 60.326405]
+  },
+  "properties": {
+    "name": "Hop lekeplass",
+    "id": "106"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.429038, 60.267429]
+  },
+  "properties": {
+    "name": "Kaland lekeplass",
+    "id": "107"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.346179, 60.264080]
+  },
+  "properties": {
+    "name": "Kirkevoll lekeplass",
+    "id": "108"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.369681, 60.318310]
+  },
+  "properties": {
+    "name": "Nordrevoll lekeplass",
+    "id": "109"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.355599, 60.265057]
+  },
+  "properties": {
+    "name": "Norheim lekeplass",
+    "id": "110"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.348555, 60.311874]
+  },
+  "properties": {
+    "name": "Odins veg barnepark",
+    "id": "111"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.341995, 60.340145]
+  },
+  "properties": {
+    "name": "Paradis barnepark",
+    "id": "112"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.331883, 60.307091]
+  },
+  "properties": {
+    "name": "Skjold lekeplass",
+    "id": "113"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.333862, 60.302647]
+  },
+  "properties": {
+    "name": "Skjold husmor barnepark",
+    "id": "114"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.370630, 60.311844]
+  },
+  "properties": {
+    "name": "Øvsttunheimen lekeplass",
+    "id": "115"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.336376, 60.355766]
+  },
+  "properties": {
+    "name": "Grønnestølen barnepark",
+    "id": "116"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.305930, 60.375500]
+  },
+  "properties": {
+    "name": "Arne Abrahamsens vei lekeplass",
+    "id": "117"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.301290, 60.384350]
+  },
+  "properties": {
+    "name": "Damsgård lekeplass",
+    "id": "118"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.307673, 60.383156]
+  },
+  "properties": {
+    "name": "Frydenbøveien lekeplass",
+    "id": "119"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.311756, 60.382130]
+  },
+  "properties": {
+    "name": "Frydenbølien lekeplass",
+    "id": "120"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.291902, 60.386909]
+  },
+  "properties": {
+    "name": "Herman Grans vei nord lekeplass",
+    "id": "121"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.300410, 60.382095]
+  },
+  "properties": {
+    "name": "Herman Grans vei sør lekeplass",
+    "id": "122"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.208287, 60.337620]
+  },
+  "properties": {
+    "name": "Kongsmyren lekeplass",
+    "id": "123"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.301587, 60.385986]
+  },
+  "properties": {
+    "name": "Laksevåg lekeplass",
+    "id": "124"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.290507, 60.389332]
+  },
+  "properties": {
+    "name": "Leitet lekeplass",
+    "id": "125"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.267150, 60.376823]
+  },
+  "properties": {
+    "name": "Lyngbø lekeplass",
+    "id": "126"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.310720, 60.382599]
+  },
+  "properties": {
+    "name": "Nylundsveien nærmiljøanlegg",
+    "id": "127"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.279569, 60.392605]
+  },
+  "properties": {
+    "name": "Olderneset lekeplass",
+    "id": "128"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.298884, 60.382423]
+  },
+  "properties": {
+    "name": "Ungdommens hus lekeplass",
+    "id": "129"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.283528, 60.305866]
+  },
+  "properties": {
+    "name": "Fanatorget lekeplass",
+    "id": "130"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.403369, 60.487030]
+  },
+  "properties": {
+    "name": "Breisteinvegen nord lekeplass",
+    "id": "131"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.410273, 60.481045]
+  },
+  "properties": {
+    "name": "Breisteinvegen sør lekeplass",
+    "id": "132"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.316795, 60.435680]
+  },
+  "properties": {
+    "name": "Eidsvågbakken lekeplass",
+    "id": "133"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.293887, 60.442219]
+  },
+  "properties": {
+    "name": "Eidsvågskogen lekplass",
+    "id": "134"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.290732, 60.440098]
+  },
+  "properties": {
+    "name": "Fagerdalshøgda lekeplass",
+    "id": "135"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.363892, 60.462803]
+  },
+  "properties": {
+    "name": "Flaktveitparken",
+    "id": "136"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.313719, 60.523258]
+  },
+  "properties": {
+    "name": "Hordvik lekeplass",
+    "id": "137"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.352745, 60.509544]
+  },
+  "properties": {
+    "name": "Hylkje lekeplass",
+    "id": "138"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.264018, 60.482059]
+  },
+  "properties": {
+    "name": "Lokketodalen lekeplass",
+    "id": "139"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.268913, 60.506798]
+  },
+  "properties": {
+    "name": "Salhus lekeplass",
+    "id": "140"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.263320, 60.478973]
+  },
+  "properties": {
+    "name": "Saudalen lekeplass",
+    "id": "141"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.340351, 60.437805]
+  },
+  "properties": {
+    "name": "Selvik lekeplass",
+    "id": "142"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.332291, 60.465832]
+  },
+  "properties": {
+    "name": "Storåsen lekeplass",
+    "id": "143"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.309658, 60.460835]
+  },
+  "properties": {
+    "name": "Ulsetåsen lekeplass",
+    "id": "144"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.346050, 60.310493]
+  },
+  "properties": {
+    "name": "Idavollen barnehage",
+    "id": "145"  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.324536, 60.407288]
+  },
+  "properties": {
+    "name": "Festergrenden lekeplass",
+    "id": "146"  }
+}]}

@@ -1,0 +1,302 @@
+{"name":"Lekeplasser","type":"FeatureCollection"
+,"features":[{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.334937, 60.388076]
+  },
+  "properties": {
+    "name": "1",
+    "plassering": "NONNESETER TERMINAL, SØR"    "place": "NONNESETER TERMINAL, SOUTH",
+    "adresse": "Lungegårdskaien",
+    "pris": "12",
+    "tid_hverdag": "07.00 - 23.15",
+    "tid_lørdag": "07.00 - 23.15",
+    "tid_søndag": "07.00 - 23.15",
+    "rullestol": "1",
+    "stellerom": "NULL",
+    "dame": "1",
+    "herre": "1",
+    "pissoir_only": "NULL",
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.334079, 60.388871]
+  },
+  "properties": {
+    "name": "2",
+    "plassering": "NONNESETER TERMINAL , NORD"    "place": "NONNESETER TERMINAL , NORTH",
+    "adresse": "Østre Strømkai",
+    "pris": "12",
+    "tid_hverdag": "05.30 - 23.50",
+    "tid_lørdag": "07.00 - 23.15",
+    "tid_søndag": "NULL",
+    "rullestol": "1",
+    "stellerom": "NULL",
+    "dame": "1",
+    "herre": "1",
+    "pissoir_only": "NULL",
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.334079, 60.388868]
+  },
+  "properties": {
+    "name": "3",
+    "plassering": "SKYSS KUNDESENTER"    "place": "SKYSS CUSTOMER CENTRE",
+    "adresse": "Østre Strømkai ",
+    "pris": "12",
+    "tid_hverdag": "09.00 - 17.00",
+    "tid_lørdag": "09.00 - 15.00",
+    "tid_søndag": "NULL",
+    "rullestol": "1",
+    "stellerom": "NULL",
+    "dame": "1",
+    "herre": "1",
+    "pissoir_only": "NULL",
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.332995, 60.39041]
+  },
+  "properties": {
+    "name": "4",
+    "plassering": "JERNBANESTASJONEN"    "place": "RAILWAY STATION",
+    "adresse": "Strømgaten 4",
+    "pris": "10",
+    "tid_hverdag": "07.00 - 23.00",
+    "tid_lørdag": "07.00 - 23.00",
+    "tid_søndag": "07.00 - 23.00",
+    "rullestol": "NULL",
+    "stellerom": "NULL",
+    "dame": "1",
+    "herre": "1",
+    "pissoir_only": "NULL",
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.324099, 60.394554]
+  },
+  "properties": {
+    "name": "5",
+    "plassering": "MATHALLEN"    "place": "FISH MARKET",
+    "adresse": "Strandkaien 3",
+    "pris": "10",
+    "tid_hverdag": "09.00 - 23.00",
+    "tid_lørdag": "08.30 - 22.00",
+    "tid_søndag": "08.30 - 22.00",
+    "rullestol": "1",
+    "stellerom": "1",
+    "dame": "1",
+    "herre": "1",
+    "pissoir_only": "NULL",
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.321034, 60.395432]
+  },
+  "properties": {
+    "name": "6",
+    "plassering": "STRANDKAITERMINALEN"    "place": "STRANDKAI BOAT TERMINAL",
+    "adresse": "Strandkaien",
+    "pris": "10",
+    "tid_hverdag": "08.00 - 18.00",
+    "tid_lørdag": "08.00 - 18.00",
+    "tid_søndag": "08.00 - 18.00",
+    "rullestol": "",
+    "stellerom": "",
+    "dame": "1",
+    "herre": "1",
+    "pissoir_only": "NULL",
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.326855, 60.3913929]
+  },
+  "properties": {
+    "name": "7",
+    "plassering": "BERGEN KOMMUNE, INNBYGGERSERVICE "    "place": "CITIZEN SERVICE CENTRE",
+    "adresse": "Kaigaten 4",
+    "pris": "0",
+    "tid_hverdag": "08.00 - 15.00 ",
+    "tid_lørdag": "NULL",
+    "tid_søndag": "NULL",
+    "rullestol": "1",
+    "stellerom": "NULL",
+    "dame": "1",
+    "herre": "1",
+    "pissoir_only": "NULL",
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.3305793, 60.3891794]
+  },
+  "properties": {
+    "name": "8",
+    "plassering": "BERGEN STORSENTER"    "place": "BERGEN STORSENTER",
+    "adresse": "Strømgaten 8",
+    "pris": "10",
+    "tid_hverdag": "09.00 - 21.00",
+    "tid_lørdag": "09.00 - 18.00",
+    "tid_søndag": "NULL",
+    "rullestol": "1",
+    "stellerom": "1",
+    "dame": "1",
+    "herre": "1",
+    "pissoir_only": "NULL",
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.324011, 60.392209]
+  },
+  "properties": {
+    "name": "9",
+    "plassering": "SUNDT MOTEHUS"    "place": "SUNDT FASHION HOUSE",
+    "adresse": "Torgallmenningen 14",
+    "pris": "10",
+    "tid_hverdag": "09.00 - 21.00",
+    "tid_lørdag": "09.00 - 18.00",
+    "tid_søndag": "NULL",
+    "rullestol": "1",
+    "stellerom": "1",
+    "dame": "1",
+    "herre": "1",
+    "pissoir_only": "NULL",
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.3239541, 60.3928444]
+  },
+  "properties": {
+    "name": "10",
+    "plassering": "XHIBITION "    "place": "XHIBITION ",
+    "adresse": "Småstrandgaten 3",
+    "pris": "10",
+    "tid_hverdag": "09.00 - 20.00",
+    "tid_lørdag": "09.00 - 18.00",
+    "tid_søndag": "NULL",
+    "rullestol": "1",
+    "stellerom": "1",
+    "dame": "1",
+    "herre": "1",
+    "pissoir_only": "NULL",
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.3243561, 60.3947371]
+  },
+  "properties": {
+    "name": "11",
+    "plassering": "GALLERIET"    "place": "GALLERIET",
+    "adresse": "Torgallmenningen 8",
+    "pris": "10",
+    "tid_hverdag": "09.00 - 21.00",
+    "tid_lørdag": "09.00 - 18.00",
+    "tid_søndag": "NULL",
+    "rullestol": "1",
+    "stellerom": "1",
+    "dame": "1",
+    "herre": "1",
+    "pissoir_only": "NULL",
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.3205649, 60.3944194]
+  },
+  "properties": {
+    "name": "12",
+    "plassering": "KLØVERHUSET"    "place": "KLØVERHUSET",
+    "adresse": "Strandgaten 13 -15",
+    "pris": "10",
+    "tid_hverdag": "10.00 - 20.00",
+    "tid_lørdag": "10.00 - 18.00",
+    "tid_søndag": "NULL",
+    "rullestol": "1",
+    "stellerom": "1",
+    "dame": "1",
+    "herre": "1",
+    "pissoir_only": "NULL",
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.3222145, 60.3974108]
+  },
+  "properties": {
+    "name": "13",
+    "plassering": "BRYGGEN BESØKSSENTER"    "place": "BRYGGEN VISITOR CENTRE",
+    "adresse": "Jacobsfjorden, Bryggen",
+    "pris": "10",
+    "tid_hverdag": "09.00 - 18.00",
+    "tid_lørdag": "09.00 - 18.00",
+    "tid_søndag": "09.00 - 18.00",
+    "rullestol": "1",
+    "stellerom": "NULL",
+    "dame": "1",
+    "herre": "1",
+    "pissoir_only": "NULL",
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.313963, 60.397359]
+  },
+  "properties": {
+    "name": "14",
+    "plassering": "C. SUNDTSGT"    "place": "C. SUNDTSGT",
+    "adresse": "C. Sundts gt",
+    "pris": "NULL",
+    "tid_hverdag": "ALL",
+    "tid_lørdag": "ALL",
+    "tid_søndag": "ALL",
+    "rullestol": "NULL",
+    "stellerom": "NULL",
+    "dame": "NULL",
+    "herre": "NULL",
+    "pissoir_only": "1",
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.307858, 60.397557]
+  },
+  "properties": {
+    "name": "15",
+    "plassering": "NORDNES SKOLE"    "place": "NORDNES SKOLE",
+    "adresse": "Nordnesparken 3",
+    "pris": "NULL",
+    "tid_hverdag": "ALL",
+    "tid_lørdag": "ALL",
+    "tid_søndag": "ALL",
+    "rullestol": "NULL",
+    "stellerom": "NULL",
+    "dame": "NULL",
+    "herre": "NULL",
+    "pissoir_only": "1",
+  }
+}]}
