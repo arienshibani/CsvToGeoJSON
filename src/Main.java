@@ -16,7 +16,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String csvFile = "C:/Users/Arien/Documents/Java/CSVParser2/res/dokart.csv";
+        String csvFile = "C:/ENTER_FILEPATH_HERE/dokart.csv";
         BufferedReader br = null;
         String line = "";
         String cvsSplitBy = ";";
@@ -79,5 +79,4 @@ public class Main {
                 "    \"pissoir_only\": \""+toilet[12]+"\",\n" +
                 "  }\n},";
     }
-
 }
